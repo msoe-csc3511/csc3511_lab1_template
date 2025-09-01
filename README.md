@@ -33,7 +33,7 @@ Numbers are typically represented in a computer in binary (base 2).
 **_SUBMISSION REQUIREMENT:_** Research number bases (cite your sources), then answer the following questions:
 
 1. What is a number base?
-2. How do you convert between number bases?
+2. How do you convert between number bases? You can answer this question by giving an example.
 3. What different number bases are useful for storing data in a computer?
 
 #### Practice with Number Bases
